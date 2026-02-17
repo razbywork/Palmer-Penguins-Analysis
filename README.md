@@ -1,13 +1,13 @@
 # Palmer-Penguins-Analysis
 
-📌# Project Overview
+## 📌 Project Overview
 
 This project presents an exploratory data analysis (EDA) and machine learning classification of the Palmer Penguins dataset.
 The goal of the project is to analyze physical characteristics of penguins and build a model that predicts the species based on measurable features.
 
 The analysis includes data cleaning, visualization, correlation analysis, and a supervised classification model.
 
-📊# Dataset Description
+## 📊 Dataset Description
 
 The dataset contains measurements of penguins from three species:
 
@@ -33,7 +33,7 @@ island
 
 year
 
-🧹# Data Cleaning
+## 🧹 Data Cleaning
 
 Removed unnecessary index column.
 
@@ -43,7 +43,7 @@ Filled missing categorical values (sex) using mode within species groups.
 
 Verified dataset integrity after preprocessing.
 
-📈# Exploratory Data Analysis (EDA)
+## 📈 Exploratory Data Analysis (EDA)
 
 The analysis revealed several important relationships:
 
@@ -65,7 +65,7 @@ Box plots
 
 Correlation heatmap
 
-🤖# Machine Learning Model
+## 🤖 Machine Learning Model
 
 A Random Forest Classifier was trained to predict penguin species using numeric features.
 
@@ -89,7 +89,7 @@ Minor misclassification within Adelie, likely due to overlapping physical charac
 
 The confusion matrix demonstrates strong model performance with minimal classification errors.
 
-🛠# Technologies Used
+## 🛠 Technologies Used
 
 Python
 
@@ -103,7 +103,7 @@ Matplotlib
 
 Scikit-learn
 
-🎯# Key Takeaways
+## 🎯 Key Takeaways
 
 Physical body measurements are highly predictive of penguin species.
 
@@ -113,7 +113,7 @@ The dataset is well-structured and suitable for both EDA and classification task
 
 Random Forest performs exceptionally well on this dataset.
 
-🚀# Future Improvements
+## 🚀 Future Improvements
 
 Feature engineering (e.g., ratio-based features).
 
@@ -123,7 +123,10 @@ Cross-validation for stronger evaluation.
 
 Deployment as an interactive dashboard (Streamlit / Power BI).
 
-👤 Author
+## 🌐 Link to Dataset
+https://www.kaggle.com/datasets/grandmaster07/penguin-species-analysis-using-seaborn/data
+
+## 👤 Author
 
 Raz Ben-Yehuda
 B.Sc. Industrial Engineering & Management
