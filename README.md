@@ -113,16 +113,6 @@ The dataset is well-structured and suitable for both EDA and classification task
 
 Random Forest performs exceptionally well on this dataset.
 
-## 🚀 Future Improvements
-
-Feature engineering (e.g., ratio-based features).
-
-Hyperparameter tuning for improved robustness.
-
-Cross-validation for stronger evaluation.
-
-Deployment as an interactive dashboard (Streamlit / Power BI).
-
 ## 🌐 Link to Dataset
 https://www.kaggle.com/datasets/grandmaster07/penguin-species-analysis-using-seaborn/data
 
